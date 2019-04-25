@@ -1,0 +1,8 @@
+{
+    "name": "bjaxelsen/field_ipaddress",
+    "description": "Provides the field_ipaddress module.",
+    "type": "drupal-module",
+    "license": "GPL-2.0+",
+    "minimum-stability": "dev",
+    "require": {}
+}
